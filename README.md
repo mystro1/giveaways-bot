@@ -1,7 +1,7 @@
 # Giveaways Bot
 
 🎁Giveways Bot using the [discord-giveaways](https://npmjs.com/discord-giveaways) package!
-
+[![Run on Repl.it](https://repl.it/badge/github/Androz2091/giveaways-bot)](https://repl.it/github/Androz2091/giveaways-bot)
 ## Features
 
 * `start-giveaway` command
